@@ -1,2 +1,3 @@
-# smi123.github.io
-my awesome website!
+   # ismirtibohara.github.io
+
+   Smriti Bohara's personal website and portfolio.
